@@ -1,0 +1,6 @@
+[sm8150-ufsgear4]
+name = sm8150-ufsgear4 (overcast302)
+baseurl = https://download.copr.fedorainfracloud.org/results/overcast302/sm8150-ufsgear4/fedora-45-aarch64/
+enabled = 1
+gpgcheck = 0
+gpgkey = https://download.copr.fedorainfracloud.org/results/overcast302/sm8150-ufsgear4/pubkey.gpg
