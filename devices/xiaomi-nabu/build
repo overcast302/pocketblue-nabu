@@ -34,5 +34,5 @@ dnf -y remove \
     kernel-modules-core \
     kernel-headers
 rm -rf /usr/lib/modules/*
-dnf -y install kernel
+dnf -y install kernel-7.0.9-1.sm8150.fc45
 rm -r /boot/dtb
