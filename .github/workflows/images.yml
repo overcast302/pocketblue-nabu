@@ -11,12 +11,7 @@ on:
         description: 'device name'
         required: true
         options:
-          - nothing-spacewar
-          - qualcomm-sdm845
           - xiaomi-nabu
-          - xiaomi-nabu-rodriguezst
-          - xiaomi-pipa
-          - xunlong-orangepi3-lts
       tag:
         type: string
         description: image tag
