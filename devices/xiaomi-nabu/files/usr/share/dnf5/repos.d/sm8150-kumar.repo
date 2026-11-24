@@ -1,0 +1,6 @@
+[sm8150-kumar]
+name = sm8150-kumar (overcast302)
+baseurl = https://download.copr.fedorainfracloud.org/results/overcast302/sm8150-kumar/fedora-45-aarch64/
+enabled = 1
+gpgcheck = 0
+gpgkey = https://download.copr.fedorainfracloud.org/results/overcast302/sm8150-kumar/pubkey.gpg
