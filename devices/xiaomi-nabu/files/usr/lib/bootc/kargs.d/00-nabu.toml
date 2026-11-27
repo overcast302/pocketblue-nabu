@@ -1,1 +1,1 @@
-kargs = ["fw_devlink=permissive", "acpi=off", "earlycon", "fbcon=rotate:1", "console=ttyGS0"]
+kargs = ["fw_devlink=permissive", "acpi=off", "earlycon", "fbcon=rotate:1", "console=ttyGS0", "ostree.prepare-root.composefs=0"]
